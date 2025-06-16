@@ -5,7 +5,7 @@ Currently building projects in Java, Spring Boot, HTML, CSS, JS & SQL.<br>
 I focus on writing clean code, solving real problems, and learning every day.<br>
 Excited to explore React, system design, and full-stack development.<br>
 Open to opportunities & collaborations in tech.<br>
-📫 Reach me: dhimanaditya0603@gmail.com | [LinkedIn](https.linkedin.com/in/aditya-dhiman-6319a6289)<br>
+📫 Reach me: dhimanaditya0603@gmail.com | [LinkedIn](linkedin.com/in/aditya-dhiman-6319a6289)<br>
 
 
 
